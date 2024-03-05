@@ -1,0 +1,122 @@
+#Principal{
+    width: 800px;
+    height: 1500px;
+    background-color: honeydew;    
+}
+
+#Cara{
+    width: 650px;
+    height: 650px;
+    background-color: bisque;
+    border-radius: 400px;
+    position: relative;
+    left: 100px;
+    top: 280px;
+    
+}
+
+#nariz{
+    width: 150px;
+    height: 150px;
+    background-color:red;
+    border-radius: 100px;
+    position: relative;
+    left: 250px;
+    top: 230px;    
+}
+#ojo1{
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    border-radius: 100px;
+    position: absolute;
+    left: 100px;
+    top: 120px;      
+
+}
+#ojo2{
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    border-radius: 100px;
+    position: absolute;
+    left: 350px;
+    top: 120px;      
+
+}
+#ojo1-1{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    border-radius: 50px;
+    position: absolute;
+    left: 50px;
+    top: 50px;  
+}
+#ojo2-1{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    border-radius: 50px;
+    position: absolute;
+    left: 50px;
+    top: 50px;  
+}
+#maqB{
+    width: 400px;
+    height: 300px;
+    background-color:pink;
+    border-radius: 200px;
+    position: absolute;
+    left: 130px;
+    top: 260px;  
+}
+#boca{
+    width: 200px;
+    height: 100px;
+    background-color: red;
+    border-radius: 50px;
+    position: absolute;
+    left: 230px;
+    top: 390px;  
+}
+#raya{
+    width: 100px;
+    height: 10px;
+    background-color:black;
+    border-radius: 50px;
+    position: absolute;
+    left: 50px;
+    top: 45px;  
+}
+#sombreroA{
+    width: 400px;
+    height: 500px;
+    background-color:gray;
+    border-radius: 200px;
+    position: absolute;
+    left: 240px; 
+    bottom: 500px;
+    transform: rotate(90deg);
+
+}
+#sombreroB{
+    width: 600px;
+    height: 200px;
+    background-color:gray;
+    border-radius: 200px;
+    position: absolute;
+    left: 140px;
+    top: 200px; 
+    
+
+}
+#rayaS{
+    width: 500px;
+    height: 10px;
+    background-color:black;
+    border-radius: 50px;
+    position: absolute;
+    left: 190px;
+    top: 210px;  
+}
